@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T20:27:33.987Z" agent="5.0 (Windows)" etag="N6UZF3Vqzh1shc0lS-9G" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T20:28:24.055Z" agent="5.0 (Windows)" etag="kkib8bob1X_SREoVrJfg" version="20.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="914" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
             <mxPoint x="220" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q2FJPdg7v_6GS05tJ-OM-25" value="If n == n + A *A?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Q2FJPdg7v_6GS05tJ-OM-25" value="If&amp;nbsp; n == n + A *A?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="370" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Q2FJPdg7v_6GS05tJ-OM-35" value="Output: int n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
